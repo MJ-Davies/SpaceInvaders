@@ -1,5 +1,5 @@
 # Space Invaders
-Simple Space Invaders game made from 2019 as a part of the Hawkeyes Drone Academy.
+Simple Space Invaders game made from 2021 as a part of the Hawkeyes Drone Academy.
 
 NOTE: At the time of writing, the game is functional on repl.it.
 ## Copyright Disclaimer
